@@ -73,16 +73,19 @@ Askoo In solves this problem by providing an anonymous communication platform:
 
 ---
 
-## 📂 Repository Structure
+📂 Repository Structure
 
+```
 📦 root
-├─ archive/        # old version & previous builds
-├─ video/          # project demo & final presentation video
-├─ document/       # midterm & final project reports
+├─ archive/ # old version & previous builds
+├─ video/ # project demo & final presentation video
+├─ document/ # midterm & final project reports
 │
-├─ AsKoo_In.apk    # final application build
-├─ 객지프젝발표.pptx    # final presentation slides
+├─ AsKoo_In.apk # final application build
+├─ 객지프젝발표.pptx # final presentation slides
 └─ README.md
+```
+
 
 ---
 
