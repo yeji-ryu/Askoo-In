@@ -76,7 +76,6 @@ Askoo In solves this problem by providing an anonymous communication platform:
 ## 📂 Repository Structure
 
 📦 root
-│
 ├─ archive/ # old version & previous builds
 ├─ video/ # project demo & final presentation video
 ├─ document/ # midterm & final project reports
@@ -85,10 +84,6 @@ Askoo In solves this problem by providing an anonymous communication platform:
 ├─ 객지프젝발표.pptx # final presentation slides
 └─ README.md
 
-yaml
-코드 복사
-
----
 
 ## 🚀 Installation  
 Download the APK below:
@@ -124,7 +119,7 @@ professors receive real-time classroom feedback.
 
 ## 🙌 Credits  
 Developed by:  
-**Koo Seunghyun, Jung Hyegi, Moon Seunghyun**
+**Yeji Ryu**
 
 Professor:  
 **Prof. Koo**
