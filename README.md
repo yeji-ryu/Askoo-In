@@ -38,7 +38,7 @@ From the planning phase, we focused on **usability** and **security**:
 
 ## 📂 Files
 - **AsKoo_In.apk**  
-- **Askoo_In_LAST.apk** → ✅ Final release (latest stable version)  
+- **Askoo_In.apk** → ✅ Final release (latest stable version)  
 - 📑 **Presentation slides** are also included for project demonstration  
 
 ---
